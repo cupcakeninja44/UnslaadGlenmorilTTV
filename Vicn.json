@@ -1,0 +1,61 @@
+{
+    "title": "Custom Dictionary",
+    "description": "Your own custom dictionary",
+    "version": "1.0.0",
+    "author": "Your name",
+    "nexusLink": null,
+    "data": {
+        "stuff": {
+            "enabled": true,
+            "arpabet": "S T AA0 F"
+        },
+        "things": {
+            "enabled": true,
+            "arpabet": "T HH IH N G S"
+        },
+        "draconic": {
+            "enabled": true,
+            "arpabet": "D R AE1 K AA1 N IH0 K"
+        },
+        "glenmoril": {
+            "enabled": true,
+            "arpabet": "G L EH1 N M AO2 R L"
+        },
+        "ulliss": {
+            "enabled": true,
+            "arpabet": "AH1 L IH0 S"
+        },
+        "dragonborn": {
+            "enabled": true,
+            "arpabet": "D R AE1 G AH0 N B OW0 R N"
+        },
+        "lizz": {
+            "enabled": true,
+            "arpabet": "L IH1 Z"
+        },
+        "jhunal": {
+            "enabled": true,
+            "arpabet": "JH UW1 N AA2 L"
+        },
+        "khajiit": {
+            "enabled": true,
+            "arpabet": "K AH1 JH IY0 T"
+        },
+        "naghu": {
+            "enabled": true,
+            "arpabet": "N AA1 G UW0"
+        },
+        "cockatrice": {
+            "enabled": true,
+            "arpabet": "K AA1 K AH0 T R EH2 S"
+        },
+        "laza": {
+            "enabled": true,
+            "arpabet": "L AE1 Z AE0"
+        },
+        "oneiromancer": {
+            "enabled": true,
+            "arpabet": "OW0 N EY0 R AH0 M AE2 N S ER0"
+        }
+    }
+}
